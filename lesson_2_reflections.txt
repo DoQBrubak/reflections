@@ -34,3 +34,10 @@ may have major functional or logical departures from the original program.
 This will permit me to explore new possibilities without screwing up a 
 good thing.
 
+Prompt #5:
+How do the diagrams help you visualize the branch structure?
+Answer:
+Diagrams visually illustrate the structure. Relationships and other 
+insights might be more readily made by viewing the structure in this
+way than by manually hashing out structure characteristics from the 
+terminal.
