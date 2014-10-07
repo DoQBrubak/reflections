@@ -15,3 +15,22 @@ within the working directory. It is a temporary staging area, for files
 prior to committment to the repository. I assume that once the files 
 "added" to the staging area are "committed" to the repository, they then
 no longer occupy the staging area.
+
+
+Prompt #3:
+How can you use the staging area to make sure you have one commit per
+logical change?
+Answer:
+I should strive to commit once per change. Using 'diff' evaluation
+against the staging area is a way to easily verify whether I did so if
+I ever have any doubt.
+
+Promtp #4:
+What are some situations when branches would be helpful in keeping your 
+history organized? How would branches help?
+Answer:
+I should use branches whenever I take the project in a new direction that 
+may have major functional or logical departures from the original program.
+This will permit me to explore new possibilities without screwing up a 
+good thing.
+
