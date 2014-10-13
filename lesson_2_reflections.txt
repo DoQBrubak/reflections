@@ -1,4 +1,5 @@
-Prompt #1: What happens when you initialize a repository? Why do you need to do it?
+Prompt #1: What happens when you initialize a repository? Why do you need
+to do it?
 Answer: 
 When I initialize a repository, Git creats a .git folder within the
 current diretory. Within that are numerous supporting files. This action
@@ -13,7 +14,6 @@ within the working directory. It is a temporary staging area, for files
 prior to committment to the repository. I assume that once the files 
 "added" to the staging area are "committed" to the repository, they then
 no longer occupy the staging area.
-
 
 Prompt #3: How can you use the staging area to make sure you have one 
 commit per logical change?

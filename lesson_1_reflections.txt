@@ -3,10 +3,10 @@ spot the bug?
 Answer:
 We used computing power to locate the difference between the versions,
 which would have been a laborious task for a human.
-My attention was then able to focus on analyzing the differences and determining their significance.
+My attention was then able to focus on analyzing the differences and
+determining their significance.
 
-
-Prompt #2:How could having easy access to the entire history of a file 
+Prompt #2: How could having easy access to the entire history of a file 
 make you a more efficient programmer in the long term?
 Answer:
 This will help me identify bugs and avoid accidental deletion.
