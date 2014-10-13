@@ -36,3 +36,11 @@ Diagrams visually illustrate the structure. Relationships and other
 insights might be more readily made by viewing the structure in this
 way than by manually hashing out structure characteristics from the 
 terminal.
+
+Prompt #6: What is the result of merging two branches together? Why do
+we represent it in the diagram the way we do?
+Answer: Merging combines the changes/commits of the "merged" branch onto
+the current working branch. It is important to be attentitive to which is
+your current branch before executing this. The diagram is just a helpful 
+way to view things, that would also be easy to show to people who perhaps 
+hadn't worked on the project yet.
