@@ -1,60 +1,54 @@
-Prompt #1:
-How did viewing a difference between two versions help you spot the bug?
-
+Prompt #1: How did viewing a difference between two versions help you 
+spot the bug?
 Answer:
 We used computing power to locate the difference between the versions,
 which would have been a laborious task for a human.
 My attention was then able to focus on analyzing the differences and determining their significance.
 
 
-Prompt #2:
-How could having easy access to the entire history of a file make you a
-more efficient programmer in the long term?
-
+Prompt #2:How could having easy access to the entire history of a file 
+make you a more efficient programmer in the long term?
 Answer:
 This will help me identify bugs and avoid accidental deletion.
 It may also help me develop extensible script or page or program shells,
 which I then complete for a certain project, but would like to have
 available to easily apply to other uses or future projects.
 
-Prompt #3:
-What do you think are the pros and cons of manually choosing when to
+Prompt #3: What do you think are the pros and cons of manually choosing
+when to
 create a commit, like you do in Git, versus having versions automatically
 saved, like Google Docs does?
-
 Answer:
 Automatic saving is a crutch for the truly lazy person. Manual commit
 creation requires slightly more effort, but allows the thinking man
 control over the creation of his art.
 
-Prompt #4:
-Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
-
+Prompt #4: Why do you think some version control systems, like Git, allow 
+saving multiple files in one commit, while others, like Google Docs, 
+treat each file separately?
 Answer:
 Programming projects frequently involve interrelationship of numerous
 files in a way that is not very common in the kinds of documents handled
 by Google Docs. A typical word processor or spreadsheet document is self-
 contained, while a Application package or website is not.
 
-Prompt #5: How can you use the commands git log and git diff to view the history of files?
-
+Prompt #5: How can you use the commands git log and git diff to view the
+history of files?
 Answer:
 git log shows a brief summary about the historical commits, without
 delving into comprehensive detail. Exploring the log suggests to me the
 importance of thoughtfully annotating my commits. git diff facilitates
 detailed inspection of select commits.
 
-Prompt #6:
-How might using version control make you more confident to make changes that could break something?
-
+Prompt #6: How might using version control make you more confident to
+make changes that could break something?
 Answer:
 Using version control would reassure me that once I have established a
 functional version of something I can experiment and adjust all I want
 without risk of losing the functional thing.
 
-Prompt #7:
-Now that you have your workspace set up, what do you want to try using Git for?
-
+Prompt #7: Now that you have your workspace set up, what do you want to
+try using Git for?
 Answer:
 I want to use Git, at least initially, to manage some simple html/JS
 projects I am attempting for work.
