@@ -1,0 +1,46 @@
+Prompt #1: What happens when you initialize a repository? Why do you need
+to do it?
+Answer: 
+When I initialize a repository, Git creats a .git folder within the
+current diretory. Within that are numerous supporting files. This action
+does NOT create a commit. It will organize and tracks future changes to
+the versions of my actual project files.
+
+Prompt #2: How is the staging area different from the working directory
+and the repository? What value do you think it offers?
+Answer:
+The staging area is a directory created IN the .git directory 
+within the working directory. It is a temporary staging area, for files
+prior to committment to the repository. I assume that once the files 
+"added" to the staging area are "committed" to the repository, they then
+no longer occupy the staging area.
+
+Prompt #3: How can you use the staging area to make sure you have one 
+commit per logical change?
+Answer:
+I should strive to commit once per change. Using 'diff' evaluation
+against the staging area is a way to easily verify whether I did so if
+I ever have any doubt.
+
+Prompt #4: What are some situations when branches would be helpful in 
+keeping your history organized? How would branches help?
+Answer:
+I should use branches whenever I take the project in a new direction that 
+may have major functional or logical departures from the original program.
+This will permit me to explore new possibilities without screwing up a 
+good thing.
+
+Prompt #5: How do the diagrams help you visualize the branch structure?
+Answer:
+Diagrams visually illustrate the structure. Relationships and other 
+insights might be more readily made by viewing the structure in this
+way than by manually hashing out structure characteristics from the 
+terminal.
+
+Prompt #6: What is the result of merging two branches together? Why do
+we represent it in the diagram the way we do?
+Answer: Merging combines the changes/commits of the "merged" branch onto
+the current working branch. It is important to be attentitive to which is
+your current branch before executing this. The diagram is just a helpful 
+way to view things, that would also be easy to show to people who perhaps 
+hadn't worked on the project yet.
