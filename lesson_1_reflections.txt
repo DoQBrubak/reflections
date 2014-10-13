@@ -15,8 +15,8 @@ which I then complete for a certain project, but would like to have
 available to easily apply to other uses or future projects.
 
 Prompt #3: What do you think are the pros and cons of manually choosing
-when to
-create a commit, like you do in Git, versus having versions automatically
+when to create a commit, like you do in Git, versus having versions 
+automatically
 saved, like Google Docs does?
 Answer:
 Automatic saving is a crutch for the truly lazy person. Manual commit
