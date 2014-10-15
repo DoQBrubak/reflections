@@ -39,8 +39,18 @@ terminal.
 
 Prompt #6: What is the result of merging two branches together? Why do
 we represent it in the diagram the way we do?
-Answer: Merging combines the changes/commits of the "merged" branch onto
+Answer:
+Merging combines the changes/commits of the "merged" branch onto
 the current working branch. It is important to be attentitive to which is
 your current branch before executing this. The diagram is just a helpful 
 way to view things, that would also be easy to show to people who perhaps 
 hadn't worked on the project yet.
+
+Prompt #7: What are the pros and cons of Git’s automatic merging vs.
+always doing merges manually?
+Answer: It would be magical if Git knew how and where to merge parallel
+and possibly overlapping production, but id does not. The process of 
+manually reoslving conflicts may take a little time, but is worth the 
+effort as the thinking and communication that will take place will 
+probably improve the final product.
+
