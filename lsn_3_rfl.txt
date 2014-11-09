@@ -6,6 +6,7 @@ with a variety of people, which will probably be most cases.
 
 #2 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
+
 My local version is the ground I am standing on. I do not wish for the sands 
 to shift beneath my feet, paricularly since the remote version could be 
 influenced by the experiments or mistakes of others.
