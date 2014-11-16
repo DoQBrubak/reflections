@@ -33,7 +33,9 @@ difficult primarily in the sense of start-up knowledge cost, which is
 why this course is so great!
 
 
-#6 When would you want to make changes in a separate branch rather than directly in
-master?  What benefits does each approach have?
+#6 When would you want to make changes in a separate branch rather 
+than directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
+Better to do a seperate branch if it for an obviously unique 
+functionality or addition, or if you are apprehensive that something 
+you do may destabilize the master.
