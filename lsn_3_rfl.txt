@@ -22,10 +22,16 @@ remote stored locally?
 You can compare changes that collaborators may have pushed to the online
 repo to your work in the convience and safety of your local environment.
 
-#5 How would you collaborate without using Git or GitHub?  What would be easier,
-and what would be harder?
+#5 How would you collaborate without using Git or GitHub?  What would 
+be easier, and what would be harder?
 
-    Fill in your answer here
+Lots of e-mail attachments and shared online drive usage. Probably 
+verbally also. Git/hub is easier because once you know the parlance 
+and think in those terms, you realize the system was set up to both 
+model and reduce inefficiencies in natural workflow. Git/hub is more 
+difficult primarily in the sense of start-up knowledge cost, which is 
+why this course is so great!
+
 
 #6 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
